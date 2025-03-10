@@ -1,2 +1,2 @@
-# Inventory-Management-System-by-Excel
-Track stock levels, reorder points, and inventory costs.
+# Financial Budget Tracking Dashboard
+Objective: Monitor and analyze an organization’s financial performance against its budget to ensure fiscal responsibility.
