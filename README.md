@@ -1,4 +1,6 @@
 * Financial Budget Tracking Dashboard
+![image](https://github.com/user-attachments/assets/4687384c-be04-455a-9258-15e9ffe316f3)
+
 
 * Project Overview
 The Financial Budget Tracking Dashboard is an interactive Excel-based dashboard designed to track and analyze income, expenses, and savings. It provides insights into financial health, spending patterns, and budget variance, helping users manage their finances effectively.
